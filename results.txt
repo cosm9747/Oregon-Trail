@@ -1,0 +1,165 @@
+Leader Name: boi
+Miles Travelled: 107
+Food Remaining: 790
+Cash Remaining: 500
+
+Leader Name: josh
+Miles Travelled: 372
+Food Remaining: 360
+Cash Remaining: 410
+
+Leader Name: cool
+Miles Travelled: 372
+Food Remaining: 360
+Cash Remaining: 290
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 0
+Cash Remaining: 1000
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 0
+Cash Remaining: 1000
+
+Leader Name: conor
+Miles Travelled: 636
+Food Remaining: 0
+Cash Remaining: 26
+
+Leader Name: conor
+Miles Travelled: 551
+Food Remaining: 0
+Cash Remaining: 171
+
+Leader Name: conor
+Miles Travelled: 102
+Food Remaining: 712
+Cash Remaining: 260
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 0
+Cash Remaining: 723
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 0
+Cash Remaining: 840
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 260
+Cash Remaining: 710
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 1000
+Cash Remaining: 238
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 1100
+Cash Remaining: 0
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 2100
+Cash Remaining: 0
+
+Leader Name: conor
+Miles Travelled: 102
+Food Remaining: 6767
+Cash Remaining: 24
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 1190
+Cash Remaining: 0
+
+Leader Name: conor
+Miles Travelled: 640
+Food Remaining: 0
+Cash Remaining: 30
+
+Leader Name: conor
+Miles Travelled: 304
+Food Remaining: 780
+Cash Remaining: 59
+
+Leader Name: a
+Miles Travelled: 304
+Food Remaining: 680
+Cash Remaining: 93
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 0
+Cash Remaining: 1000
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 0
+Cash Remaining: 1000
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 0
+Cash Remaining: 776
+
+Leader Name: conora
+Miles Travelled: 304
+Food Remaining: 870
+Cash Remaining: 36
+
+Leader Name: eth
+Miles Travelled: 409
+Food Remaining: 520
+Cash Remaining: 8
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 0
+Cash Remaining: 1000
+
+Leader Name: gfg
+Miles Travelled: 0
+Food Remaining: 0
+Cash Remaining: 879
+
+Leader Name: conor
+Miles Travelled: 0
+Food Remaining: 2390
+Cash Remaining: 0
+
+Leader Name: conor
+Miles Travelled: 813
+Food Remaining: 2511
+Cash Remaining: 23
+
+Leader Name: conor
+Miles Travelled: 989
+Food Remaining: 0
+Cash Remaining: 9
+
+Leader Name: Conor
+Miles Travelled: 495
+Food Remaining: 0
+Cash Remaining: 9
+
+Leader Name: conor
+Miles Travelled: 640
+Food Remaining: 0
+Cash Remaining: 87
+
+Leader Name: conor
+Miles Travelled: 592
+Food Remaining: 234
+Cash Remaining: 13
+
+Leader Name: mad
+Miles Travelled: 0
+Food Remaining: 4090
+Cash Remaining: 265
+
